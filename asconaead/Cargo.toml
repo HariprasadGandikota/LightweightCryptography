@@ -1,0 +1,9 @@
+[package]
+name = "asconaead"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4"
+ascon-aead = "0.4"
+sysinfo = "0.29"
